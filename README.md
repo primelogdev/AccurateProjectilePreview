@@ -3,7 +3,7 @@
   Forked from Projectile Trajectory Preview by maDU59 (MIT License)
 </div>
 
-Ever wondered where your arrow, snowball, or potion will land? This mod provides a visual preview of projectile trajectories, similar to PTP, but with improved prediction accuracy.
+Ever wondered where your arrow, snowball, or potion will land? This mod provides a visual preview of projectile trajectories, similar to PTP, but with improved prediction accuracy and no multiplayer limitations.
 
 ## 🔎 Features
 
