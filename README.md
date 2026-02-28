@@ -5,6 +5,8 @@
 
 Ever wondered where your arrow, snowball, or potion will land? This mod provides a visual preview of projectile trajectories, similar to PTP, but with improved prediction accuracy and no multiplayer limitations.
 
+Made with help of ChatGpt
+
 ## 🔎 Features
 
 - Trajectory Visualization: Displays the expected path of your projectile before launching.
